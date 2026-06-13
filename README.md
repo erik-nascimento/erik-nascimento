@@ -1,7 +1,7 @@
 ## Hi there 👋
 <br>
 <br>
-Desenvolvedor Full Stack em formação
+Sou Erik Nascimento, Desenvolvedor Full Stack em formação
 Criando projetos reais com foco em prática e evolução
 Stack:
 
